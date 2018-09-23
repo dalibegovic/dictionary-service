@@ -1,0 +1,6 @@
+rootProject.name = 'dictionary-service'
+
+include 'computer-science-dictionary'
+include 'dictionary-client'
+include 'dictionary-service-provider'
+include 'general-dictionary'
