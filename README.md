@@ -1,12 +1,11 @@
 ### Overview ###
-This application is an example of creating an extensible application in `Java`.
+Dictionary-service is an simple application that prints in the console few words from provided dictionaries.
 
+This is an example of an extensible application.
 It is created by following [this](https://docs.oracle.com/javase/tutorial/ext/basics/spi.html) java tutorial.
 
 An extensible application is one that you can extend without modifying its original code base. You can read more about it
 in the provided link.
-
-The application will print few words from provided dictionaries.
 
 ### Run
 This application is using [Gradle](https://gradle.org) as a build tool, and has a Gradle wrapper setup, so in order to run it,

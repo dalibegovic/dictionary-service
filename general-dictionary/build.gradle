@@ -3,7 +3,7 @@ apply plugin: 'java-library'
 dependencies {
     compile project(':dictionary-service-provider')
 
-    testImplementation('org.mockito:mockito-junit-jupiter:2.19.1')
-    testImplementation('org.junit.jupiter:junit-jupiter-api:5.2.0')
-    testImplementation('org.junit.jupiter:junit-jupiter-engine:5.2.0')
+    testImplementation("org.mockito:mockito-junit-jupiter:$mockitoVersion")
+    testImplementation("org.junit.jupiter:junit-jupiter-api:$junitVersion")
+    testImplementation("org.junit.jupiter:junit-jupiter-engine:$junitVersion")
 }
