@@ -1,8 +1,8 @@
-### Overview ###
-Dictionary-service is an simple application that prints in the console few words from provided dictionaries.
+### Dictionary-service
+Is a simple application that prints few words in the console, from provided dictionaries.
 
 This is an example of an extensible application.
-It is created by following [this](https://docs.oracle.com/javase/tutorial/ext/basics/spi.html) java tutorial.
+It is inspired by [this](https://docs.oracle.com/javase/tutorial/ext/basics/spi.html) java tutorial.
 
 An extensible application is one that you can extend without modifying its original code base. You can read more about it
 in the provided link.
